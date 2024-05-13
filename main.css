@@ -668,7 +668,7 @@ footer .up {
     transform: translate(-50%, -50%);
     background-color: #252A2E; /* Cambia el color aquí */
     padding: 100px; /* Ajusta el tamaño del pop-up */
-    border-radius: 15px;
+    border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
     color: #fff; /* Color del texto dentro del pop-up */
     font-size: 18px; /* Tamaño del texto */
